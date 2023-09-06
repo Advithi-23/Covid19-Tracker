@@ -72,3 +72,8 @@ Contributions are welcome! If you'd like to enhance this project, please follow 
 
 Feel free to customize this README file according to your project's specific details and requirements.
 
+## Screenshots
+![s1](https://github.com/Advithi-23/Covid19-Tracker/assets/144119100/a9ffa098-b21d-4dae-abb8-e04a0284dcd7)
+![s3](https://github.com/Advithi-23/Covid19-Tracker/assets/144119100/97c524a2-a544-4f4d-a12c-12ecf63b1d74)
+![s4](https://github.com/Advithi-23/Covid19-Tracker/assets/144119100/81e6f38a-a87e-43a7-80a9-a9d8f089d59f)
+![s5](https://github.com/Advithi-23/Covid19-Tracker/assets/144119100/ad6e9a7f-8073-415c-bbc2-38793d58f90b)
